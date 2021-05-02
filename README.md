@@ -13,7 +13,8 @@ __bold text__
 `<addr>`
 
 table cell1 | cel 2
--|--------------------
+-|-
 table cell3 | cell 4
 cell 5 | cell 6
+
 no table
