@@ -7,5 +7,7 @@
 ###### Heading 6
 
 plain text
+
 *italic text*
+
 __bold text__
