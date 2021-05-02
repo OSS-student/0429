@@ -18,3 +18,5 @@ table cell3 | cell 4
 cell 5 | cell 6
 
 no table
+
+(any text)
