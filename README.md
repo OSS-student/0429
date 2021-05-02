@@ -19,4 +19,4 @@ cell 5 | cell 6
 
 no table
 
-~~strike through
+~~strike through~~
